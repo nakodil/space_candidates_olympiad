@@ -1,0 +1,18 @@
+id#name#surname#height#weight#eyesight#age#education#english_language
+1#Giovanni#Ricci#180#75#1.0#35#PhD#true
+2#Antonio#Conti#175#80#1.2#42#Master#false
+3#Lorenzo#Rossi#190#95#1.5#28#Bachelor#true
+4#Matteo#Ferrari#160#70#1.1#65#PhD#false
+5#Luca#Moretti#200#110#1.0#49#Master#true
+6#Giuseppe#Romano#150#50#1.0#22#Bachelor#false
+7#Alessandro#De Luca#170#65#1.0#33#PhD#true
+8#Fabio#Barbieri#185#100#1.3#56#Master#true
+9#Marco#Galli#195#90#1.0#41#Bachelor#false
+10#Paolo#Martini#140#55#1.0#38#PhD#true
+11#Riccardo#Rizzo#165#75#1.0#29#Master#true
+12#Stefano#Santoro#205#120#1.0#47#Bachelor#false
+13#Davide#Colombo#155#60#1.0#23#PhD#true
+14#Simone#Pellegrini#180#85#1.0#31#Master#true
+15#Andrea#Ferri#210#115#1.0#60#Bachelor#false
+16#Enzo#Marino#175#70#1.0#44#PhD#true
+17#Giorgio#Greco#185#95#1.0#37#Master#false
