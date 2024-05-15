@@ -54,7 +54,7 @@ def get_candidates(file_path: str) -> list[dict]:
 
 
 def candidate_is_ok(candidate: dict) -> bool:
-    print(f' - Кандидат {candidate['name']} {candidate['surname']}', end=' ')
+    print(f' - Кандидат {candidate["name"]} {candidate["surname"]}', end=' ')
     if int(candidate['age']) < 20:
         print('не прошел провекру: возраст меньше 20')
         return False
